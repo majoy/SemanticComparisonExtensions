@@ -5,7 +5,7 @@ using System.Text;
 using Jmansar.SemanticComparisonExtensions.Test.Builder;
 using Jmansar.SemanticComparisonExtensions.Test.TestData;
 using NUnit.Framework;
-using Ploeh.SemanticComparison;
+using SemanticComparison;
 
 namespace Jmansar.SemanticComparisonExtensions.Test
 {

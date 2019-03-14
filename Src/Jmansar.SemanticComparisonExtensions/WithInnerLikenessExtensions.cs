@@ -4,7 +4,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using Jmansar.SemanticComparisonExtensions.Diagnostics;
-using Ploeh.SemanticComparison;
+using SemanticComparison;
 
 namespace Jmansar.SemanticComparisonExtensions
 {

@@ -6,8 +6,8 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using Jmansar.SemanticComparisonExtensions.Diagnostics;
-using Ploeh.SemanticComparison;
-using Ploeh.SemanticComparison.Fluent;
+using SemanticComparison;
+using SemanticComparison.Fluent;
 
 namespace Jmansar.SemanticComparisonExtensions
 {
